@@ -1,0 +1,11 @@
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\bin\Debug\CASEJA_PRELIM1.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\bin\Debug\CASEJA_PRELIM1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\bin\Debug\CASEJA_PRELIM1.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\bin\Debug\CASEJA_PRELIM1.xml
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.exe
+c:\users\administrator\documents\visual studio 2015\Projects\CASEJA_PRELIM1\CASEJA_PRELIM1\obj\Debug\CASEJA_PRELIM1.pdb
